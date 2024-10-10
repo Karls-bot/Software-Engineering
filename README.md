@@ -31,18 +31,29 @@ In the tech industry, software engineering fuels innovation, drives efficiency, 
    g.) Maintenance: After deployment, the software needs to be maintained. This includes fixing any issues that arise, updating the software to accommodate changes in the environment or requirements, and adding new features.
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+     Waterfall Methodology:
+Sequential Process: Moves through each SDLC phase in order—planning, requirements, design, implementation, testing, deployment, and maintenance. There’s no going back to a previous phase once it's completed.
+Fixed Requirements: Requirements are set at the beginning and rarely change.
+Documentation: Emphasizes thorough documentation throughout the process.
+Examples: Ideal for projects with clear, unchanging requirements, like government contracts, or scenarios where extensive documentation is crucial, such as medical device software.
+
+     Agile Methodology:
+Iterative Process: Breaks projects into small, manageable units called sprints or iterations. Each sprint involves planning, design, coding, and testing, allowing for continuous improvement and flexibility.
+Adaptable Requirements: Requirements can evolve over time based on feedback and changing conditions.
+Collaboration: Prioritizes collaboration, regular feedback, and adaptability over extensive documentation.
+Examples: Perfect for projects where requirements may change or are not fully known upfront, such as software startups, app development, or user-focused products.
 
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 
-6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+7. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
-7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+8. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
-8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+9. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
 
